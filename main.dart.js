@@ -38507,7 +38507,7 @@ $S:1}
 V.ala.prototype={
 $1:function(a){var s=null,r=$.as(),q=L.c("Sucesso",s,s,s,A.f(s,s,r,s,s,s,s,s,s,s,s,16,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s)
 r=L.c(C.c.O("Prescri\xe7\xe3o ",this.a)+" cadastrada com sucesso!",s,s,s,A.f(s,s,r,s,s,s,s,s,s,s,s,14,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s)
-return E.hI(H.b([U.dM(L.c("OK!",s,s,s,A.f(s,s,$.al(),s,s,s,s,s,s,s,s,14,s,C.d,s,s,!0,s,s,s,s,s,s,s),s,s),new V.al9(a),s)],t.t),r,q)},
+return E.hI(H.b([U.dM(L.c("OK",s,s,s,A.f(s,s,$.al(),s,s,s,s,s,s,s,s,14,s,C.d,s,s,!0,s,s,s,s,s,s,s),s,s),new V.al9(a),s)],t.t),r,q)},
 $S:25}
 V.al9.prototype={
 $0:function(){var s=V.A(new V.al4(),null,t.z)
@@ -38520,7 +38520,7 @@ $S:10}
 V.alb.prototype={
 $1:function(a){var s=null,r=$.as(),q=L.c("Sucesso",s,s,s,A.f(s,s,r,s,s,s,s,s,s,s,s,16,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s)
 r=L.c(C.c.O("Prescri\xe7\xe3o ",this.a)+" editada com sucesso!",s,s,s,A.f(s,s,r,s,s,s,s,s,s,s,s,14,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s)
-return E.hI(H.b([U.dM(L.c("OK!",s,s,s,A.f(s,s,$.al(),s,s,s,s,s,s,s,s,14,s,C.d,s,s,!0,s,s,s,s,s,s,s),s,s),new V.al8(a),s)],t.t),r,q)},
+return E.hI(H.b([U.dM(L.c("OK",s,s,s,A.f(s,s,$.al(),s,s,s,s,s,s,s,s,14,s,C.d,s,s,!0,s,s,s,s,s,s,s),s,s),new V.al8(a),s)],t.t),r,q)},
 $S:25}
 V.al8.prototype={
 $0:function(){var s=V.A(new V.al3(),null,t.z)
@@ -41325,37 +41325,38 @@ E.og.prototype={
 K:function(){return new E.R_(new N.bm(null,t.Xu),["A","AB","B","O"],["Positivo","Negativo"],C.m)}}
 E.R_.prototype={
 a0:function(){this.a7()},
-C:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="Nome do paciente",a3=Y.yK(a7,t.Ts),a4=$.ax(),a5=L.c("Cadastrar prescri\xe7\xe3o",a1,a1,a1,A.f(a1,a1,a4,a1,a1,a1,a1,a1,a1,a1,a1,20,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)
-a5=E.aE(a1,$.aFT(),a5)
-s=$.v0()
-r=L.c("C\xf3gido do paciente",a1,a1,a1,A.f(a1,a1,s,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)
-q=T.d(a1,5,a1)
-p=$.pv()
-o=E.bH(L.bh(a1,a1,a1,a1,a1,a1,a1,!0,new F.Q(4,C.n,new Y.O(p,1,C.l)),a1,a1,a1,a1,C.e,!0,a1,a1,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),a1,!0,a1,a1,a1,a1,a1,"C\xf3digo do paciente",a1,a1,a1,!1,a1,a1,"Digite o c\xf3digo do paciente",a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!1,new E.alV(a0),new E.alW())
-n=T.d(a1,20,a1)
-m=L.c(a2,a1,a1,a1,A.f(a1,a1,s,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)
-l=T.d(a1,5,a1)
-p=E.bH(L.bh(a1,a1,a1,a1,a1,a1,a1,!0,new F.Q(4,C.n,new Y.O(p,1,C.l)),a1,a1,a1,a1,C.e,!0,a1,a1,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),a1,!0,a1,a1,a1,a1,a1,a2,a1,a1,a1,!1,a1,a1,"Digite o nome completo do paciente",a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!1,new E.alX(a0),new E.alY())
-k=T.d(a1,20,a1)
-j=L.c("Grupo sangu\xedneo",a1,a1,a1,A.f(a1,a1,s,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)
-i=T.d(a1,5,a1)
-h=$.al()
-g=K.bb(h,a1,C.E.h(0,200),new E.alZ(a0),a0.d)
-f=a0.fy
-e=f[0]
-d=$.v1()
-c=t.t
-e=T.ao(H.b([T.ao(H.b([g,L.c(e,a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o),T.d(a1,a1,10),T.ao(H.b([K.bb(h,a1,C.E.h(0,200),new E.am_(a0),a0.f),L.c(f[1],a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o)],c),C.v,C.u,C.o)
-f=T.ao(H.b([T.ao(H.b([K.bb(h,a1,C.E.h(0,200),new E.am0(a0),a0.e),L.c(f[2],a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o),T.d(a1,a1,10),T.ao(H.b([K.bb(h,a1,C.E.h(0,200),new E.am1(a0),a0.r),L.c(f[3],a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o)],c),C.v,C.u,C.o)
-g=T.d(a1,20,a1)
-s=L.c("Fator Rh",a1,a1,a1,A.f(a1,a1,s,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)
-b=T.d(a1,5,a1)
-a=a0.go
-d=T.ao(H.b([T.ao(H.b([K.bb(h,a1,C.E.h(0,200),new E.am2(a0),a0.x),L.c(a[0],a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o),T.d(a1,a1,10),T.ao(H.b([K.bb(h,a1,C.E.h(0,200),new E.am3(a0),a0.y),L.c(a[1],a1,a1,a1,A.f(a1,a1,d,a1,a1,a1,a1,a1,a1,a1,a1,15,a1,C.L,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),C.v,C.u,C.o)],c),C.v,C.u,C.o)
-a=T.d(a1,20,a1)
-h=A.ad(a1,a1,new V.J($.fu(),t.R),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1)
-c=M.aC(a5,C.e,new T.aj(new V.Y(15,15,15,15),A.jU(B.aF(H.b([r,q,o,n,m,l,p,k,j,i,e,f,g,s,b,d,a,T.d(D.X(L.c("CADASTRAR PACIENTE",a1,a1,a1,A.f(a1,a1,a4,a1,a1,a1,a1,a1,a1,a1,a1,14,a1,C.d,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1),new E.am4(a0,a3,a7),h),45,a1),T.d(a1,10,a1),T.d(a1,12,a1),L.c("",a1,a1,a1,A.f(a1,a1,C.a7,a1,a1,a1,a1,a1,a1,a1,a1,17,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],c),a1,!1),a0.ch),a1),a1)
-return c}}
+C:function(a7,a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3="Nome do paciente",a4=Y.yK(a8,t.Ts),a5=$.ax(),a6=L.c("Cadastrar prescri\xe7\xe3o",a2,a2,a2,A.f(a2,a2,a5,a2,a2,a2,a2,a2,a2,a2,a2,20,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)
+a6=E.aE(a2,$.aFT(),a6)
+s=T.d(a2,15,a2)
+r=$.v0()
+q=L.c("C\xf3gido do paciente",a2,a2,a2,A.f(a2,a2,r,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)
+p=T.d(a2,5,a2)
+o=$.pv()
+n=E.bH(L.bh(a2,a2,a2,a2,a2,a2,a2,!0,new F.Q(4,C.n,new Y.O(o,1,C.l)),a2,a2,a2,a2,C.e,!0,a2,a2,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),a2,!0,a2,a2,a2,a2,a2,"C\xf3digo do paciente",a2,a2,a2,!1,a2,a2,"Digite o c\xf3digo do paciente",a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2),a2,1,!1,new E.alV(a1),new E.alW())
+m=T.d(a2,20,a2)
+l=L.c(a3,a2,a2,a2,A.f(a2,a2,r,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)
+k=T.d(a2,5,a2)
+o=E.bH(L.bh(a2,a2,a2,a2,a2,a2,a2,!0,new F.Q(4,C.n,new Y.O(o,1,C.l)),a2,a2,a2,a2,C.e,!0,a2,a2,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),a2,!0,a2,a2,a2,a2,a2,a3,a2,a2,a2,!1,a2,a2,"Digite o nome completo do paciente",a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2),a2,1,!1,new E.alX(a1),new E.alY())
+j=T.d(a2,20,a2)
+i=L.c("Grupo sangu\xedneo",a2,a2,a2,A.f(a2,a2,r,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)
+h=T.d(a2,5,a2)
+g=$.al()
+f=K.bb(g,a2,C.E.h(0,200),new E.alZ(a1),a1.d)
+e=a1.fy
+d=e[0]
+c=$.v1()
+b=t.t
+d=T.ao(H.b([T.ao(H.b([f,L.c(d,a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o),T.d(a2,a2,10),T.ao(H.b([K.bb(g,a2,C.E.h(0,200),new E.am_(a1),a1.f),L.c(e[1],a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o)],b),C.v,C.u,C.o)
+e=T.ao(H.b([T.ao(H.b([K.bb(g,a2,C.E.h(0,200),new E.am0(a1),a1.e),L.c(e[2],a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o),T.d(a2,a2,10),T.ao(H.b([K.bb(g,a2,C.E.h(0,200),new E.am1(a1),a1.r),L.c(e[3],a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o)],b),C.v,C.u,C.o)
+f=T.d(a2,20,a2)
+r=L.c("Fator Rh",a2,a2,a2,A.f(a2,a2,r,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)
+a=T.d(a2,5,a2)
+a0=a1.go
+c=T.ao(H.b([T.ao(H.b([K.bb(g,a2,C.E.h(0,200),new E.am2(a1),a1.x),L.c(a0[0],a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o),T.d(a2,a2,10),T.ao(H.b([K.bb(g,a2,C.E.h(0,200),new E.am3(a1),a1.y),L.c(a0[1],a2,a2,a2,A.f(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,15,a2,C.L,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2)],b),C.v,C.u,C.o)],b),C.v,C.u,C.o)
+a0=T.d(a2,20,a2)
+g=A.ad(a2,a2,new V.J($.fu(),t.R),a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2)
+b=M.aC(a6,C.e,new T.aj(new V.Y(15,0,15,0),A.jU(B.aF(H.b([s,q,p,n,m,l,k,o,j,i,h,d,e,f,r,a,c,a0,T.d(D.X(L.c("CADASTRAR PACIENTE",a2,a2,a2,A.f(a2,a2,a5,a2,a2,a2,a2,a2,a2,a2,a2,14,a2,C.d,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),new E.am4(a1,a4,a8),g),45,a2),T.d(a2,10,a2),T.d(a2,12,a2),L.c("",a2,a2,a2,A.f(a2,a2,C.a7,a2,a2,a2,a2,a2,a2,a2,a2,17,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),T.d(a2,5,a2)],b),a2,!1),a1.ch),a2),a2)
+return b}}
 E.alW.prototype={
 $1:function(a){return a.length===0?"Digite o c\xf3digo do paciente":null},
 $S:7}
@@ -42281,7 +42282,7 @@ C:function(a,b){var s,r,q=null,p=Y.yK(b,t.OU),o=J.aq(p)
 if(o.gm(p)!==0)return B.azK(new N.akf(this,p),o.gm(p))
 else{o=$.as()
 s=L.c("Aten\xe7\xe3o (!)",q,q,q,A.f(q,q,o,q,q,q,q,q,q,q,q,16,q,C.k,q,q,!0,q,q,q,q,q,q,q),q,q)
-o=L.c("Paciente n\xe3o encontrado. O senhor(a) gostaria de continuar a prescri\xe7\xe3o?",q,q,q,A.f(q,q,o,q,q,q,q,q,q,q,q,14,q,C.k,q,q,!0,q,q,q,q,q,q,q),q,q)
+o=L.c("Paciente n\xe3o encontrado. Voc\xea gostaria de continuar o processo de prescri\xe7\xe3o?",q,q,q,A.f(q,q,o,q,q,q,q,q,q,q,q,14,q,C.k,q,q,!0,q,q,q,q,q,q,q),q,q)
 r=$.al()
 return E.hI(H.b([U.dM(L.c("SIM",q,q,q,A.f(q,q,r,q,q,q,q,q,q,q,q,14,q,C.d,q,q,!0,q,q,q,q,q,q,q),q,q),new N.akg(b),q),U.dM(L.c("N\xc3O",q,q,q,A.f(q,q,r,q,q,q,q,q,q,q,q,14,q,C.d,q,q,!0,q,q,q,q,q,q,q),q,q),new N.akh(b),q)],t.t),o,s)}}}
 N.akf.prototype={
