@@ -41486,7 +41486,7 @@ r=T.d(k,15,k)
 q=L.c("Por favor, informe abaixo uma justificativa para esta prescri\xe7\xe3o de transfus\xe3o.",k,k,k,A.f(k,k,$.as(),k,k,k,k,k,k,k,k,20,k,C.d,k,k,!0,k,k,k,k,k,k,k),k,k)
 p=T.d(k,10,k)
 o=$.v_()
-o=E.bH(L.bh(k,k,k,k,k,k,new F.Q(4,C.n,new Y.O($.pv(),1,C.l)),!0,new F.Q(4,C.n,new Y.O(o,1,C.l)),new F.Q(4,C.n,new Y.O(C.a7,1,C.l)),k,k,k,C.e,k,k,k,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),k,!0,k,k,k,k,k,j,k,k,k,!1,k,k,j,k,k,k,k,k,k,k,k,k,k,k),k,1,!1,new O.aiV(l),new O.aiW())
+o=E.bH(L.bh(k,k,k,k,k,k,new F.Q(4,C.n,new Y.O($.pv(),1,C.l)),!0,new F.Q(4,C.n,new Y.O(o,1,C.l)),new F.Q(4,C.n,new Y.O(C.a7,1,C.l)),k,k,k,C.e,k,k,k,new F.Q(4,C.n,new Y.O(C.K,2,C.l)),k,!0,k,k,k,k,k,j,k,k,k,!1,k,k,j,k,k,k,k,k,k,k,k,k,k,k),k,k,!1,new O.aiV(l),new O.aiW())
 n=T.d(k,10,k)
 m=A.ad(k,k,new V.J($.fu(),t.R),k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
 return M.aC(s,C.e,new T.aj(new V.Y(15,0,15,0),A.jU(B.aF(H.b([r,q,p,o,n,T.d(D.X(L.c("AVAN\xc7AR",k,k,k,A.f(k,k,i,k,k,k,k,k,k,k,k,14,k,C.d,k,k,!0,k,k,k,k,k,k,k),k,k),new O.aiX(l,b,g,h,f),m),45,k),T.d(k,15,k)],t.t),k,!0),l.d),k),k)}}
