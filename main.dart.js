@@ -40852,7 +40852,7 @@ A.Q3.prototype={
 a1(){this.ae()
 this.d=-1},
 al(a){this.A(new A.ajG(this,a))},
-D(a,b){var s,r,q,p,o,n,m=this,l=null,k="Qual caso o senhor(a) deseja selecionar?",j=m.a.c,i=["Uso de crioprecipitado","Uso de concentrado de plaquetas","Uso de plasma fresco congelado","Uso de hem\xe1cias"],h=A.d("Cadastrar prescri\xe7\xe3o",l,l,l,A.f(l,l,$.ao(),l,l,l,l,l,l,l,l,20,l,B.d,l,l,!0,l,l,l,l,l,l,l,l),l,l),g=$.al()
+D(a,b){var s,r,q,p,o,n,m=this,l=null,k="Qual caso o(a) senhor(a) deseja selecionar?",j=m.a.c,i=["Uso de crioprecipitado","Uso de concentrado de plaquetas","Uso de plasma fresco congelado","Uso de hem\xe1cias"],h=A.d("Cadastrar prescri\xe7\xe3o",l,l,l,A.f(l,l,$.ao(),l,l,l,l,l,l,l,l,20,l,B.d,l,l,!0,l,l,l,l,l,l,l,l),l,l),g=$.al()
 h=A.aH(l,g,h)
 s=A.e(l,15,l)
 r=$.ar()
