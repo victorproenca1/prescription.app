@@ -39702,7 +39702,7 @@ return A.ah(["codigoPaciente",s.b,"hemocomponente",s.c,"justificativa",s.d,"quan
 A.hH.prototype={}
 A.l6.prototype={}
 A.bS.prototype={
-J(){return new A.RL(new A.bz("O que o senhor(a) deseja fazer?",["Cadastrar prescri\xe7\xe3o","Buscar prescri\xe7\xf5es"],[new A.lE(null),new A.vW(null)]),new A.kC($.vj()),B.n)}}
+J(){return new A.RL(new A.bz("O que o(a) senhor(a) deseja fazer?",["Cadastrar prescri\xe7\xe3o","Buscar prescri\xe7\xf5es"],[new A.lE(null),new A.vW(null)]),new A.kC($.vj()),B.n)}}
 A.RL.prototype={
 a1(){this.ae()
 this.f=-1},
